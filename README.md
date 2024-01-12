@@ -1,6 +1,11 @@
 - 👋 Hi, I’m @Johnni5
 - 👀 I’m interested in IT, coding and cloud. Love AWS!
-- 🌱 I’m currently learning Terraform for the cert.
+- 🌱 I’m currently learning Terr
+- 🌱 AWS CCP, ISC² CC, MS MCP,
+- Terraform Intermed,
+- JavaScript Intermed,
+- HTML/CSS,
+- Python. C#, Unity, Deno
 - 💞️ I’m looking to collaborate on .. things .. ;)
 
 <!---
