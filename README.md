@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @Johnni
+- 👋 Hi, I’m @Johnni5
 - 👀 I’m interested in IT, coding and cloud. Love AWS!
-- 🌱 I’m currently learning React_native - export const feeling = awesome;
+- 🌱 I’m currently learning Front-end Development - Scrum, Angular.;
 - 🌱 AWS CCP, ISC² CC, MS MCP, A+(GFL), N+(GFL)
-- Angular, Terraform Intermed
+- Azure - GCP : beginner, Terraform Intermed
+- Docker and k8 - Beginner
 - JavaScript, Typescript, Deno
-- React, Node, React_native
+- React, Node, React_native - export const feeling = awesome;
 - Python. C#, Unity -developing small games for fun and realaxing :)
 - 💞️ I’m looking to collaborate on .. things .. ;)
 
